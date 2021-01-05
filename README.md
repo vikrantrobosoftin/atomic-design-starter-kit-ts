@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project is typescript port of [`atomic-design-starter-kit`](https://github.com/vikrantrobosoftin/atomic-design-starter-kit)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Note: Screenshots have been added
